@@ -1,4 +1,6 @@
 ![workflow](https://github.com/rumeysakdogan/my-gha-project/actions/workflows/ci.yml/badge.svg)
+![workflow](https://github.com/rumeysakdogan/my-gha-project/actions/workflows/ci.yml/badge.svg?branch=main)
+![workflow](https://github.com/rumeysakdogan/my-gha-project/actions/workflows/ci.yml/badge.svg?event=push)
 
 ##### build the project
 
